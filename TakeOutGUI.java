@@ -9,9 +9,6 @@ import javax.swing.JFrame;
 /**
  * Executes the GUI interface for this program.
  *
- * @author Abdul-Rahman Mawlood-Yunis
- * @author David Brown
- * @version 2023-09-06
  */
 public class TakeOutGUI {
 
