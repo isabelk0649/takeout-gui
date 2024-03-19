@@ -3,11 +3,6 @@ package cp213;
 import java.util.Scanner;
 /**
  * Wraps around an Order object to ask for MenuItems and quantities.
- *
- * @author your name here
- * @author Abdul-Rahman Mawlood-Yunis
- * @author David Brown
- * @version 2023-09-06
  */
 public class Cashier {
 
