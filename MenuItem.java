@@ -9,10 +9,6 @@ import java.math.RoundingMode;
  * Defines the name and price of a menu item. Price is stored as a BigDecimal to
  * avoid rounding errors.
  *
- * @author your name here
- * @author Abdul-Rahman Mawlood-Yunis
- * @author David Brown
- * @version 2023-09-06
  */
 public class MenuItem {
 
