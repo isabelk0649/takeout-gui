@@ -16,10 +16,6 @@ import java.util.Scanner;
 ...
  * </pre>
  *
- * @author your name here
- * @author Abdul-Rahman Mawlood-Yunis
- * @author David Brown
- * @version 2023-09-06
  */
 public class Menu {
 
